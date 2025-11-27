@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://web.archive.org/web/20200813221403im_/https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 22:14:03 Aug 13, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:44:59 Nov 27, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.528
+  exclusion.robots: 0.023
+  exclusion.robots.policy: 0.014
+  esindex: 0.008
+  cdx.remote: 32.767
+  LoadShardBlock: 92.23 (3)
+  PetaboxLoader3.datanode: 130.788 (4)
+  PetaboxLoader3.resolve: 1974.12 (2)
+  load_resource: 2058.001
+*/
